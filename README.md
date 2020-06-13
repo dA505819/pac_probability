@@ -2,7 +2,9 @@
 
 pac_probability is a packaged developed to calculate and plot gaussian, binomial and general probabilitiy distribution. It is published on python package index(PyPi). 
 
-To use, run
+## Setup
+
+To run
 ```
 pip install pac-probability
 ```
