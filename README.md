@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pac_probability is a package developed to calculate and plot gaussian, binomial and general probabilitiy distribution.
+The pac_probability package is developed to calculate and plot gaussian, binomial and general probabilitiy distribution.
 
 ## Setup
 
