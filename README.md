@@ -24,7 +24,7 @@ Also, run:
 ```
 Binomial(0.8, 21)
 ```
-The output mean is 16.8, standard deviation is 1.8330302779823358, p is 0.8 and n is 21.
+The output mean is 16.8, standard deviation is 1.8330, p is 0.8 and n is 21.
 
 # License
 [MIT](https://github.com/dA505819/pac_probability/blob/master/LICENSE)
