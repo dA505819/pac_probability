@@ -3,9 +3,9 @@ Name: pac-probability
 Version: 0.1
 Summary: Gaussian distributions
 Home-page: UNKNOWN
-Author: UNKNOWN
-Author-email: UNKNOWN
-License: UNKNOWN
+Author: Dhruv 
+Author-email: dhruvaggarwal2@protonmail.com
+License: MIT
 Description-Content-Type: UNKNOWN
-Description: UNKNOWN
+Description: Calculate & Plot probability distributions
 Platform: UNKNOWN
