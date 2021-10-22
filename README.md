@@ -1,5 +1,4 @@
-# pac_probability [![PyPI version](https://badge.fury.io/py/pac-probability.svg)](https://badge.fury.io/py/pac-probability)
-[![License](https://img.shields.io/github/license/dA505819/pac_probability)](https://github.com/dA505819/pac_probability/blob/master/LICENSE.md)
+# pac_probability [![PyPI version](https://badge.fury.io/py/pac-probability.svg)](https://badge.fury.io/py/pac-probability) [![License](https://img.shields.io/github/license/dA505819/pac_probability)](https://github.com/dA505819/pac_probability/blob/master/LICENSE.md)
 
 ## Overview
 
