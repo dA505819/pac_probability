@@ -10,7 +10,7 @@ To run:
 ```
 pip install pac-probability
 ```
-Package will install on the system with default version 0.1 . The ```-``` used in place of ```_``` because PyPi doesn't take into account ```_```. PyPi uses ```-``` only. The name of the package **pac_probability** remains same.
+Package will install on the system with default version 0.1 . The ```-``` used in place of ```_``` because PyPi doesn't take into account ```_```. PyPi uses ```-``` only. The name of the package i.e **pac_probability** remains same.
 
 Then type,
 ```
