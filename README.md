@@ -6,7 +6,7 @@ The pac_probability package is developed to calculate and plot gaussian, binomia
 
 ## Setup
 
-To run:
+To run:-
 ```
 pip install pac-probability
 ```
@@ -20,7 +20,7 @@ Gaussian(12,8)
 ```
 The output mean is 12 and standard deviation is 8.
 
-Also, run:
+Also, run:-
 ```
 Binomial(0.8, 21)
 ```
