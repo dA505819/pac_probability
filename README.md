@@ -6,7 +6,7 @@ The pac_probability package is developed to calculate and plot gaussian, binomia
 
 ## Setup
 
-To run:-
+To run:
 ```
 pip install pac-probability
 ```
