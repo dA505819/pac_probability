@@ -20,7 +20,7 @@ Gaussian(12,8)
 ```
 The output mean is 12 and standard deviation is 8.
 
-Also, run:-
+Also, Run:-
 ```
 Binomial(0.8, 21)
 ```
